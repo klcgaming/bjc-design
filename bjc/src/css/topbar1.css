@@ -1,0 +1,15 @@
+.maintopbarcssstyletextall {
+width: 101.2%;
+height: 15%;
+background-color: brown;
+background-image: url("../img/background/backround.ico");
+margin-left: -8px;
+margin-top: -8px;
+margin-bottom: -00px;
+
+}
+.header{
+  color: #b88c52;
+  margin-top: 0px;
+  font-size: 90px;
+}

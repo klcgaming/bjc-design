@@ -1,0 +1,38 @@
+.middlebar {
+  width: 90%;
+  background-color: rgb(65, 65, 65);
+  height: 900px;
+  margin-left: 5%;
+}
+.middlebarc{
+  width: 90%;
+  background-color: rgb(65, 65, 65);
+  height: 900px;
+  margin-left: 5%;
+  margin-top: -22px;
+} 
+.middlebarct{
+  width: 90%;
+  background-color: rgb(65, 65, 65);
+  height: 900px;
+  margin-left: 5%;
+  margin-top: -16px;
+} 
+.middlebarctl{
+  width: 90%;
+  background-color: rgb(65, 65, 65);
+  height: 2000px;
+  margin-left: 5%;
+  margin-top: -22px;
+} 
+.bjcimg {
+  width: 90%;
+  margin-left: 5%;
+}
+
+.wt {
+  color: #fff;
+}
+.img1 {
+  margin-left: 16px;
+}
